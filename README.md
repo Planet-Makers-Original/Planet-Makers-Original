@@ -3,7 +3,7 @@
   <img src= "assets/image/banner.png" alt="projects screenshot" style="width:100%">
 </figure>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=welcome+friend!;I'm+Alexandre+Yuri;Check+out+my+profile;FullStack+Developer+Analyst&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Alexande Yui">
+  <img src="https://Planet-Makers-Original.github.io/links/?lines=welcome+friend!;I'm+Alexandre+Yuri;Check+out+my+profile;FullStack+Developer+Analyst&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Alexande Yui">
   <br/>
   <b> Learner 📚 | Maker 💻 | Explorer 🔎 </b> </p>
   I am a full stack programmer with extensive experience in developing complete solutions, from conception to final implementation. My expertise covers both the front-end  and back-end, ensuring intuitive interfaces and robust functionality. I have solid knowledge in databases, creation and optimization of embedded systems and development for IoT (Internet of Things), as well as practical experience in a variety of projects, ranging from web applications to industrial automation. My approach to problem solving is focused on detailed analysis, strategic planning and agile development, always seeking to deliver efficient and innovative solutions. I work with the best programming practices and am constantly learning to stay up to date with new technologies and market demands.
